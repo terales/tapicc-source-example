@@ -14,3 +14,7 @@ previous systems and push them back.
 chain, not only PUSH.
 * Concrete API calls, plus sample implementation modules
 (code snippets). Much of this can be taken from COTI.
+
+## Executive decision
+
+* Transfer protocols. Current specification aims to target REST transfer protocol at first.
